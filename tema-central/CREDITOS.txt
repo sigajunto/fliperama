@@ -1,0 +1,57 @@
+Tema "Central" - créditos das imagens de fundo (assets/sistemas/)
+Todas baixadas do Wikimedia Commons em 21/11/2026, reduzidas para no máximo
+1024 px e salvas em JPEG leve (qualidade 60) com o sips do macOS.
+
+nes.jpg
+  Arquivo: NES-Console-Set.jpg
+  Autor: Evan-Amos
+  Licença: Domínio público
+  Fonte: https://commons.wikimedia.org/wiki/File:NES-Console-Set.jpg
+
+snes.jpg
+  Arquivo: SNES-Mod1-Console-Set.jpg
+  Autor: Evan-Amos
+  Licença: Domínio público
+  Fonte: https://commons.wikimedia.org/wiki/File:SNES-Mod1-Console-Set.jpg
+
+megadrive.jpg
+  Arquivo: Sega-Mega-Drive-JP-Mk1-Console-Set.jpg
+  Autor: Evan-Amos
+  Licença: Domínio público
+  Fonte: https://commons.wikimedia.org/wiki/File:Sega-Mega-Drive-JP-Mk1-Console-Set.jpg
+
+mastersystem.jpg
+  Arquivo: Sega-Master-System-Set.jpg
+  Autor: Evan-Amos
+  Licença: Domínio público
+  Fonte: https://commons.wikimedia.org/wiki/File:Sega-Master-System-Set.jpg
+
+sega32x.jpg
+  Arquivo: Sega-Genesis-Model2-32X.jpg
+  Autor: Evan-Amos
+  Licença: Domínio público
+  Fonte: https://commons.wikimedia.org/wiki/File:Sega-Genesis-Model2-32X.jpg
+
+mame.jpg (gabinete de fliperama Sega New Astro City)
+  Arquivo: Sega New Astro City (50356520032).jpg
+  Autor: Andrew Eaton, de Somerset, Reino Unido (Flickr)
+  Licença: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+  Fonte: https://commons.wikimedia.org/wiki/File:Sega_New_Astro_City_(50356520032).jpg
+  Alteração: reduzida para 768x1024 e recomprimida em JPEG.
+
+Fontes de texto: as padrão do Pegasus (Roboto / Roboto Condensed), nenhum
+arquivo de fonte é incluído no tema.
+
+Acrescentadas em 21/11/2026 (Wikimedia Commons, Evan-Amos, domínio público):
+gba.jpg       Nintendo-Game-Boy-Advance-Purple-FL.jpg
+gb.jpg        Game-Boy-FL.jpg
+gbc.jpg       Nintendo-Game-Boy-Color-FL.jpg
+gamegear.jpg  Sega-Game-Gear-WB.jpg
+psx.jpg       PSX-Console-wController.jpg
+pcengine.jpg  PC-Engine-Console-Set.jpg
+atari2600.jpg: File:Atari-2600-Wood-4Sw-Set.jpg — Public domain — https://commons.wikimedia.org/wiki/File:Atari-2600-Wood-4Sw-Set.jpg
+atari7800.jpg: File:Atari-7800-Console-Set.jpg — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Atari-7800-Console-Set.jpg
+ngp.jpg: File:Neo-Geo-Pocket-Color-Blue-Left.jpg — Public domain — https://commons.wikimedia.org/wiki/File:Neo-Geo-Pocket-Color-Blue-Left.jpg
+wswan.jpg: File:WonderSwan-Color-Blue-Left.jpg — Public domain — https://commons.wikimedia.org/wiki/File:WonderSwan-Color-Blue-Left.jpg
+sg1000.jpg: File:Sega-SG-1000-Console-Set.jpg — Public domain — https://commons.wikimedia.org/wiki/File:Sega-SG-1000-Console-Set.jpg
+vectrex.jpg: File:Vectrex-Console-Set.jpg — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Vectrex-Console-Set.jpg

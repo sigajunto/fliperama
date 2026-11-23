@@ -1,0 +1,4 @@
+collection: Sega 32X
+shortname: sega32x
+extensions: 32x, zip, 7z
+launch: am start --user 0 -n com.retroarch.aarch64/com.retroarch.browser.retroactivity.RetroActivityFuture -e ROM {file.path} -e LIBRETRO /data/data/com.retroarch.aarch64/cores/picodrive_libretro_android.so -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg --activity-clear-task --activity-clear-top

@@ -1,0 +1,4 @@
+collection: PlayStation
+shortname: psx
+extensions: cue, chd, pbp, m3u
+launch: am start --user 0 -n com.retroarch.aarch64/com.retroarch.browser.retroactivity.RetroActivityFuture -e ROM {file.path} -e LIBRETRO /data/data/com.retroarch.aarch64/cores/pcsx_rearmed_libretro_android.so -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg --activity-clear-task --activity-clear-top

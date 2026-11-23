@@ -1,0 +1,16 @@
+.DS_Store
+build/
+.gradle/
+local.properties
+*.zip
+*.7z
+*.nes
+*.sfc
+*.smc
+*.md.rom
+*.gba
+*.gb
+*.gbc
+*.chd
+*.cue
+*.bin

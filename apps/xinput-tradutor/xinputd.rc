@@ -1,0 +1,6 @@
+# Tradutor de controle modo Xbox (XInput) -> controle Android. Ver ~/aplicativos/xinput-carro.
+service xinputd /system/bin/xinputd
+    class main
+    user root
+    group root input usb
+    seclabel u:r:su:s0
